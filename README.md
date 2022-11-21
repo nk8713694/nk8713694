@@ -50,8 +50,8 @@
 <tr>
 
       <td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://www.patterns.dev/img/reactjs/react-logo@3x.svg"> 
+<span><b><center>React</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png"> 
 </td>
 
 <td align="center" width="20%">
