@@ -49,6 +49,10 @@
 
 <tr>
 
+      <td align="center" width="20%">
+<span><b><center>SQL</center></b></span> 
+<img height=65px src="https://www.patterns.dev/img/reactjs/react-logo@3x.svg"> 
+</td>
 
 <td align="center" width="20%">
 <span><b><center>SQL</center></b></span> 
