@@ -59,6 +59,10 @@
 <img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
 </td>
       
+ <td align="center" width="20%">
+<span><b><center>React</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png"> 
+</td>
 </tr>
 
 </tbody>
