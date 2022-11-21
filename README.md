@@ -29,8 +29,13 @@
 </td>
        
  <td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
+<span><b><center>Java</center></b></span> 
 <img height=65px src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png"> 
+</td>
+       
+        <td align="center" width="20%">
+<span><b><center>React</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png"> 
 </td>
 </tr>
 
@@ -45,10 +50,7 @@
 <span><b><center>Jenkins</center></b></span> 
 <img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
 </td>
-      <td align="center" width="20%">
-<span><b><center>React</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png"> 
-</td>
+     
 </tr>
 
 <tr>
