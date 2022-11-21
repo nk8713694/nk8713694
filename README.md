@@ -27,6 +27,11 @@
 <span><b><center>Docker</center></b></span> 
 <img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
 </td>
+       
+ <td align="center" width="20%">
+<span><b><center>SQL</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png"> 
+</td>
 </tr>
 
 <tr>
