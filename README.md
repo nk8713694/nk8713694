@@ -33,10 +33,7 @@
 <img height=65px src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png"> 
 </td>
        
-        <td align="center" width="20%">
-<span><b><center>React</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png"> 
-</td>
+
 </tr>
 
 <tr>
@@ -60,6 +57,11 @@
 <td align="center" width="20%">
 <span><b><center>SQL</center></b></span> 
 <img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
+</td>
+      
+              <td align="center" width="20%">
+<span><b><center>React</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png"> 
 </td>
 </tr>
 
