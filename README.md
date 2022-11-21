@@ -11,7 +11,7 @@
 ### 🤵 About Me:
 - 🏦 I'm currently working for a healthcare product based company where i make financial applications using spring boot and mysql 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ```.java```, ```.sql```
+- 🤔 I use daily ```.java```, ```.react```
 - 🌱 I’m currently learning react and camunda
 - 💬 Talk to me about cricket
 - 😄 Pronouns: He/Him
