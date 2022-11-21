@@ -45,14 +45,15 @@
 <span><b><center>Jenkins</center></b></span> 
 <img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
 </td>
-</tr>
-
-<tr>
-
       <td align="center" width="20%">
 <span><b><center>React</center></b></span> 
 <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png"> 
 </td>
+</tr>
+
+<tr>
+
+  
 
 <td align="center" width="20%">
 <span><b><center>SQL</center></b></span> 
